@@ -1,0 +1,15 @@
+{
+  "name": "test-async-await",
+  "version": "1.0.0",
+  "description": "test-async-await",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tailwindcss -i ./src/input.css -o ./dist/css/output.css --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
